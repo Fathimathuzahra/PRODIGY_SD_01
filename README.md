@@ -1,4 +1,4 @@
-\# 🌡️ Temperature Converter
+ Temperature Converter
 
 
 
@@ -14,7 +14,7 @@ This is a Python program that converts temperature between:
 
 
 
-\## 🚀 Features
+🚀 Features
 
 \- User-friendly input
 
@@ -24,7 +24,7 @@ This is a Python program that converts temperature between:
 
 
 
-\## ▶️ How to Run
+▶️ How to Run
 
 ```bash
 
